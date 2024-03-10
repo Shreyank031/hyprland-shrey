@@ -19,7 +19,7 @@ datestr=%a, %e of %B
 #screenshots
 
 # Add an image as a background 
-image=~/picture.jpg
+image=~/Pictures/wallpaper/picture.jpg
 
 # Fade in time
 fade-in=1
